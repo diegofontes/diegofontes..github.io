@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/card/static/js/main.867d11bd.chunk.js",
+    "main.js.map": "/card/static/js/main.867d11bd.chunk.js.map",
+    "runtime-main.js": "/card/static/js/runtime-main.47b13949.js",
+    "runtime-main.js.map": "/card/static/js/runtime-main.47b13949.js.map",
+    "static/css/2.8cebfa1f.chunk.css": "/card/static/css/2.8cebfa1f.chunk.css",
+    "static/js/2.04792984.chunk.js": "/card/static/js/2.04792984.chunk.js",
+    "static/js/2.04792984.chunk.js.map": "/card/static/js/2.04792984.chunk.js.map",
+    "index.html": "/card/index.html",
+    "static/css/2.8cebfa1f.chunk.css.map": "/card/static/css/2.8cebfa1f.chunk.css.map",
+    "static/js/2.04792984.chunk.js.LICENSE.txt": "/card/static/js/2.04792984.chunk.js.LICENSE.txt",
+    "static/media/corte-cabelho-m.fa8052e4.jpg": "/card/static/media/corte-cabelho-m.fa8052e4.jpg",
+    "static/media/corte-cabelo-f.49f9b283.jpg": "/card/static/media/corte-cabelo-f.49f9b283.jpg",
+    "static/media/corte-cabelo.df1b9772.jpg": "/card/static/media/corte-cabelo.df1b9772.jpg",
+    "static/media/logo_marca4.ca7c5151.png": "/card/static/media/logo_marca4.ca7c5151.png",
+    "static/media/mulher-no-salao-tendo-cabelo-lavado.a8160ef4.jpg": "/card/static/media/mulher-no-salao-tendo-cabelo-lavado.a8160ef4.jpg",
+    "static/media/unhasdecoradas.83829765.jpg": "/card/static/media/unhasdecoradas.83829765.jpg",
+    "static/media/unhassimples.baefdbda.png": "/card/static/media/unhassimples.baefdbda.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47b13949.js",
+    "static/css/2.8cebfa1f.chunk.css",
+    "static/js/2.04792984.chunk.js",
+    "static/js/main.867d11bd.chunk.js"
+  ]
+}

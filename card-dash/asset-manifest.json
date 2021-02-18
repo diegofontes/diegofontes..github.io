@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/card-dash/static/js/main.1841ee90.chunk.js",
-    "main.js.map": "/card-dash/static/js/main.1841ee90.chunk.js.map",
+    "main.js": "/card-dash/static/js/main.5c48ed39.chunk.js",
+    "main.js.map": "/card-dash/static/js/main.5c48ed39.chunk.js.map",
     "runtime-main.js": "/card-dash/static/js/runtime-main.763569e3.js",
     "runtime-main.js.map": "/card-dash/static/js/runtime-main.763569e3.js.map",
     "static/css/2.763096a7.chunk.css": "/card-dash/static/css/2.763096a7.chunk.css",
-    "static/js/2.6fcd6daa.chunk.js": "/card-dash/static/js/2.6fcd6daa.chunk.js",
-    "static/js/2.6fcd6daa.chunk.js.map": "/card-dash/static/js/2.6fcd6daa.chunk.js.map",
+    "static/js/2.4138d036.chunk.js": "/card-dash/static/js/2.4138d036.chunk.js",
+    "static/js/2.4138d036.chunk.js.map": "/card-dash/static/js/2.4138d036.chunk.js.map",
     "index.html": "/card-dash/index.html",
     "static/css/2.763096a7.chunk.css.map": "/card-dash/static/css/2.763096a7.chunk.css.map",
-    "static/js/2.6fcd6daa.chunk.js.LICENSE.txt": "/card-dash/static/js/2.6fcd6daa.chunk.js.LICENSE.txt"
+    "static/js/2.4138d036.chunk.js.LICENSE.txt": "/card-dash/static/js/2.4138d036.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.763569e3.js",
     "static/css/2.763096a7.chunk.css",
-    "static/js/2.6fcd6daa.chunk.js",
-    "static/js/main.1841ee90.chunk.js"
+    "static/js/2.4138d036.chunk.js",
+    "static/js/main.5c48ed39.chunk.js"
   ]
 }
